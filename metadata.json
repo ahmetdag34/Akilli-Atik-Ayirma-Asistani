@@ -1,0 +1,5 @@
+{
+  "name": "Akıllı Atık Ayırma Asistanı",
+  "description": "Yapay zeka destekli bu uygulama, yüklediğiniz görsellerdeki geri dönüştürülebilir atıkları (plastik, kağıt, cam, metal, organik) otomatik olarak tanır ve sınıflandırır. Çevre bilincine katkıda bulunun ve atık yönetiminizi kolaylaştırın.",
+  "requestFramePermissions": []
+}
